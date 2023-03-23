@@ -1,3 +1,3 @@
 # Study
 
-## [Algorithm](https://github.com/thstnwl/Algorithm)
+### [Algorithm](https://github.com/thstnwl/Algorithm)
